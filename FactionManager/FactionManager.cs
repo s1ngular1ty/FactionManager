@@ -37,7 +37,7 @@ namespace PRoConEvents
 
     public class FactionManager : PRoConPluginAPI, IPRoConPluginInterface
     {
-        string PluginVersion = "0.1.0.0";
+        string PluginVersion = "0.2.0.0";
 
         bool pluginEnabled;
         bool restrictCommandsToMe;
